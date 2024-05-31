@@ -6,8 +6,10 @@
   "license": "MIT",
   "scripts": {
     "смотр": "tsc -w",
-    "раз": "nodemon --inspect двф\\индекс.js",
-    "тест": "jest"
+    "раз": "nodemon --inspect двф/индекс.js",
+    "тест": "jest",
+    "build": "tsc",
+    "start": "node двф/индекс.js"
   },
   "dependencies": {
     "express": "^4.19.2"
