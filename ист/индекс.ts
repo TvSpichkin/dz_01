@@ -52,8 +52,8 @@ const промежПОтелаЗОДС = экспресс.json(),
 
 export const путь = {
     //осн: encodeURI("/hometask_01/api"),
-    видео: encodeURI("/videos"),
-    тест: encodeURI("/testing/all-data")
+    видео: "/videos",
+    тест: "/testing/all-data"
 };
 //путь.видео = путь.осн + путь.видео;
 //путь.тест = путь.осн + путь.тест;
