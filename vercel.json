@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "name": "h01 API - V1",
+  "builds": [
+    {
+      "src": "двф/индекс.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "двф/индекс.js"
+    }
+  ]
+}
