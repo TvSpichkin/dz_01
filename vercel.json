@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "name": "h01 API - V1",
+  "name": "h01-API-V1-TvSpichkin",
   "builds": [
     {
-      "src": "двф/индекс.js",
+      "src": "ист/индекс.ts",
       "use": "@vercel/node"
     }
   ],
