@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "h01-API-V1-TvSpichkin",
+  "name": "dz-01",
   "builds": [
     {
       "src": "ист/индекс.ts",
