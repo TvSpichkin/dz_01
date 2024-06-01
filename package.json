@@ -1,7 +1,7 @@
 {
   "name": "dz-01",
   "version": "1.0.0",
-  "main": "индекс.js",
+  "main": "ист/индекс.ts",
   "author": "Extro-Games",
   "license": "MIT",
   "scripts": {
